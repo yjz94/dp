@@ -1,4 +1,4 @@
-package cn.lessann.dp.creative.adapter;
+package cn.lessann.dp.structure.adapter;
 
 /**
  * 适配器模式

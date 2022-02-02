@@ -1,4 +1,4 @@
-package cn.lessann.dp.creative.adapter;
+package cn.lessann.dp.structure.adapter;
 
 public class Mp4Player implements AdvancedMediaPlayer {
     @Override
